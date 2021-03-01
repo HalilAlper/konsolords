@@ -6,8 +6,8 @@ Oyun Konusu: Birisi yapay zeka olmak üzere iki tarafın karşı karşıya gelip
 
 ## Kontroller:
 ### Savaş alanında hareket:
-Gönderilecek askerin gideceği *satırı* seçmek için
-W: Yukarı
+Gönderilecek askerin gideceği *satırı* seçmek için<br>
+W: Yukarı<br>
 S: Aşağı
 
 ### Asker Seçimi
