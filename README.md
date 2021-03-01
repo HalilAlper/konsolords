@@ -1,4 +1,4 @@
-# konsolords
+# Konsolords
 
 Bir gün canım sıkıldı ve bu konsol oyununu 15 yıllık eski bilgisayarımda yaptım. Eski bir oyun olan Warlords flash oyunundan esinlenilmiştir.
 
